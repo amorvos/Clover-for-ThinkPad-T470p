@@ -13,7 +13,7 @@ This thinkpad t470p is:
 i7-7700HQ
 512GB intel 760p (Samsung PM981 cannot work in Mac OS, the only way is to change the hard drive)
 32GB DDR4 RAM (Kingston HyperX)
-2560*1440 WQHD display (Use one-key-hidpi to enable retina and I suggest to use the value "1600*900")
+2560*1440 WQHD display (Use one-key-hidpi to enable retina and I suggest to use the value "1600 x 900")
 
 known issues:
 the HDMI ouput and mini displayport output can not work
